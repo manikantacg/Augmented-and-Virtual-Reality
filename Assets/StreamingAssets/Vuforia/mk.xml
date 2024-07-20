@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="konark" size="5.000000 3.755365" />
+    <ImageTarget name="ellora" size="5.000000 3.262774" />
+    <ImageTarget name="Halebidu" size="5.000000 3.312500" />
+    <ImageTarget name="hampi" size="5.000000 3.747178" />
+  </Tracking>
+</QCARConfig>

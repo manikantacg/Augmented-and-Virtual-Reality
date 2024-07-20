@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/MANIKANTA/Documents/New Unity Project (16)/Assets/GoogleVR/DemoScenes/ControllerDemo/ControllerDemo.unity
+  isLoaded: 1
+  isActive: 1
